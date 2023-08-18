@@ -1,5 +1,13 @@
 ## Andrea Giulianelli
 
+![Java](https://img.shields.io/badge/Java-Fluent-red)
+![Scala](https://img.shields.io/badge/Scala-Intermediate-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-blue)
+![C++](https://img.shields.io/badge/C++-Good-Green)
+![C](https://img.shields.io/badge/C-Good-Green)
+![Javascript](https://img.shields.io/badge/JavaScript-Good-Green)
+![Prolog](https://img.shields.io/badge/Prolog-Beginner-green)
+
 Hi! I am a master student in Computer Science and Engineering at University of Bologna.
 
 #### 🌱 Main interests
