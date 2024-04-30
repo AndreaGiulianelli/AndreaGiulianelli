@@ -8,7 +8,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-Good-Green)
 ![Prolog](https://img.shields.io/badge/Prolog-Beginner-green)
 
-Hi! I am a master student in Computer Science and Engineering at University of Bologna.
+Hi! I am a Research fellow in Computer Science and Engineering at the University of Bologna.
 
 #### 🌱 Main interests
 - Software development
