@@ -18,6 +18,9 @@ Hi! I am a Research fellow in Computer Science and Engineering at the University
 - Complex systems
 - Functional programming
 
+#### :page_facing_up: My Scientific publications
+Complete list on [Google Scholar](https://scholar.google.com/citations?user=OZjsq7kAAAAJ&hl=it&oi=ao).
+
 #### :rocket: GitHub Stats
 <div align="center">
   
